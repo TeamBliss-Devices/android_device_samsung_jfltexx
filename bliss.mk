@@ -1,6 +1,3 @@
-#Bliss Audio Mod
-BLISS_AUDIO_MOD := viper
-
 $(call inherit-product, device/samsung/jfltexx/full_jfltexx.mk)
 
 # Enhanced NFC
